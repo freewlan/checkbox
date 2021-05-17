@@ -10,6 +10,8 @@
 # 简介
 一些常用网站以及app的签到,有用的话点个star⭐️呗  
 [点这里加TG群](https://t.me/wenmou_car)  
+[dorajs交流群(懒得跑js的)](https://jq.qq.com/?_wv=1027&k=zVvFzMRX)  
+[checkbox交流群](https://jq.qq.com/?_wv=1027&k=u4nTAo4M)  
 需要什么签到可以去提[issues](https://github.com/wenmoux/checkbox/issues),也欢迎PR  
 关于代码为什么这么烂:  
 开始写的时候就不知道js是啥，也不了解编程，全靠百度，以及抄大佬的代码
@@ -79,7 +81,8 @@ termux可以使用crontab设置定时任务
 
 
 
-下载源码,安装依赖,在config.yml文件内填入对应cookies(不要更改原有格式,index.js文件里自行按照格式添加需要的任务,运行
+下载源码,安装依赖,在config.yml文件内填入对应cookies(不要更改原有格式, 比如冒号后面的空格emmm
+,index.js文件里自行按照格式添加需要的任务,运行
    ```       
       git clone https://github.com/Wenmoux/checkbox.git
       cd /sdcard/checkbox (这里还是要看你的路径)
